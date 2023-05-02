@@ -1,0 +1,22 @@
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
+C:\Users\ERNESTO SALVADOR\Desktop\Mini COMPI\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+C:\Users\ERNESTO SALVADOR\Desktop\Mini COMPI\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+C:\Users\ERNESTO SALVADOR\Desktop\Mini COMPI\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojAssemblyReference.cache
+C:\Users\ERNESTO SALVADOR\Desktop\Mini COMPI\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.CoreCompileInputs.cache
+C:\Users\ERNESTO SALVADOR\Desktop\Mini COMPI\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+C:\Users\ERNESTO SALVADOR\Desktop\Mini COMPI\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
+C:\Users\Luis Orellana\Documents\Mini COMPI\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+C:\Users\Luis Orellana\Documents\Mini COMPI\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+C:\Users\Luis Orellana\Documents\Mini COMPI\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.AssemblyReference.cache
+C:\Users\Luis Orellana\Documents\Mini COMPI\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.CoreCompileInputs.cache
+C:\Users\Luis Orellana\Documents\Mini COMPI\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+C:\Users\Luis Orellana\Documents\Mini COMPI\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
